@@ -14,5 +14,5 @@ public record InformacoesCliente(
 
     public InformacoesCliente(Cliente cliente) {
         this(cliente.getId(), cliente.getNome(), cliente.getEndereco(), cliente.getDocumento(), cliente.getCep(), cliente.isAtivo(), cliente.getTipo());
-    }
+    }git
 }
