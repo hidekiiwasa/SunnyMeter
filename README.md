@@ -1,4 +1,4 @@
-# Sobr
+# Sobre
 
 <p>Aplicação para expor um conjunto de endpoints de monitoração de energia elétrica. Contendo as seguintes funções: </p>
 
